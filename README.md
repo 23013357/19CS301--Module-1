@@ -30,7 +30,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/61c091af-7bf7-496e-98d7-5d1039b10e4e)
+![image](https://github.com/23013357/19CS301--Module-1/blob/main/qq.png)
 
 
  
