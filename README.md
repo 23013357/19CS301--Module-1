@@ -143,36 +143,34 @@ Thus the python program to check whether the input is odd or even using if..else
 Exp.No:1(e)	SEB- MINIMUM OF THREE NUMBERS
 
 ### AIM
-To write a program to find a minimum between three integer numbers using conditional Expression(Ternary).
+To write a python program to check whether the two integer numbers are equal using conditional Expression(Ternary).
 ### ALGORITHM
 
-Step 1:	 Begin the program.
+Step 1:	Begin the program.
 
-Step 2:	 Read the three numbers: num1, num2, and num3 from the user.
+Step 2:	Read the first number and store it in variable a.
 
-Step 3:	 Compare num1, num2, and num3 to find the smallest number:
+Step 3:	Read the second number and store it in variable b.
 
-Step 4:	If num1 is less than or equal to both num2 and num3, then num1 is the minimum.
+Step 4:	Compare the two numbers,If a is equal to b, then display "True".
 
-Step 5:	Else, if num2 is less than or equal to both num1 and num3, then num2 is the minimum.
+Step 5: Otherwise, display "False".
 
-Step 6:	 Otherwise, num3 is the minimum.
+Step 6:	Terminate the program.
 
-Step 7:	 Print the minimum value along with the input numbers in the format: "The minimum of num1, num2, num3 is min_num."
-
-Step 8:	 Terminate the program.
 ### PROGRAM
 ```
-num1=int(input())
-num2=int(input())
-num3=int(input())
-min_num=num1 if(num1<=num2 and num1<=num3) else num2 if(num2<=num1 and num2<=num3) else(num3)
-print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
+a=int(input())
+b=int(input())
+if a==b:
+    print("True")
+else:
+    print("False")
 ```
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/64e607d4-916a-4df8-b2f4-450f68295884)
 
  
 ### RESULT
-Thus the python program for finding a minimum of three numbers has been implemented and executed successfully.
+Thus the python program to check whether the two integer numbers are equal using conditional Expression(Ternary). has been implemented and executed successfully.
 
