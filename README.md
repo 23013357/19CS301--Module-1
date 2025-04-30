@@ -94,16 +94,13 @@ Step 6:	Terminate the program.
 A = eval(input())
 B = eval(input())
 
-print(f"A is {A}")
-print(f"B is {B}")
-
 sum_complex = A + B
 
-print(f"Sum is {sum_complex}")
+print(sum_complex)
 ```
 ### OUTPUT
 
- ![image](https://github.com/user-attachments/assets/a1c12175-0dee-4aa1-885f-9e7dc870f2dd)
+ ![image](https://github.com/23013357/19CS301--Module-1/blob/main/ww.png)
 
 ### RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
