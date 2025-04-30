@@ -51,7 +51,8 @@ Step 3:	Use the print() function to display the numbers 123, 456, and 789.
 Step 4:	Terminate the program.
 
 ### PROGRAM
-```num1 = 123
+```
+num1 = 123
 num2 = 456
 num3 = 789
 print(num1)
