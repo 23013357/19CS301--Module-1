@@ -106,39 +106,35 @@ print(sum_complex)
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
 
 
-Exp.No:1(d)	CONDITIONAL STATEMENTS- CHECKING VOWEL OR NOT
+Exp.No:1(d)	CONDITIONAL STATEMENTS- CHECKING ODD OR EVEN
 
 ### AIM
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a  python program to check whether the given number is even or odd using if..else statement
 ### ALGORITHM
 Step 1:	 Begin the program.
 
 Step 2:	 Take a character input from the user
 
-Step 3:	 Convert the character to lowercase
+Step 3:	 If a % 2 == 0 (i.e., a is divisible by 2) Print "EVEN"
 
-Step 4:	 Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
+Step 4:	 Otherwise, display "ODD"
 
-Step 5:	 If it is a vowel, display "The given character is a vowel"
-
-Step 6:	 Otherwise, display "The given character is NOT a vowel"
-
-Step 7:	 Terminate the program.
+Step 5:	 Terminate the program.
 
 ### PROGRAM
-```char = input("Enter a character: ")
-char_lower = char.lower()
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
+```
+a=int(input())
+if(a%2==0):
+    print("EVEN")
 else:
-    print("The given character is NOT a vowel")
+    print("ODD")
 ```
 ### OUTPUT 
 ![image](https://github.com/user-attachments/assets/c8b79e3c-6d44-4da2-b72a-461b3e03cfee)
 
 
 ### RESULT
-Thus the python program to check whether the given character is a vowel or not using if..else statement  has been implemented and executed successfully.
+Thus the python program to check whether the input is odd or even using if..else statement  has been implemented and executed successfully.
 
 
 
