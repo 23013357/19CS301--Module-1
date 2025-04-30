@@ -168,7 +168,7 @@ else:
     print("False")
 ```
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/64e607d4-916a-4df8-b2f4-450f68295884)
+![image](https://github.com/23013357/19CS301--Module-1/blob/main/rr.png)
 
  
 ### RESULT
