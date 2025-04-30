@@ -130,7 +130,7 @@ else:
     print("ODD")
 ```
 ### OUTPUT 
-![image](https://github.com/user-attachments/assets/c8b79e3c-6d44-4da2-b72a-461b3e03cfee)
+![image](https://github.com/23013357/19CS301--Module-1/blob/main/EE.png)
 
 
 ### RESULT
