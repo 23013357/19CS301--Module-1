@@ -140,7 +140,7 @@ Thus the python program to check whether the input is odd or even using if..else
 
 
 
-Exp.No:1(e)	SEB- MINIMUM OF THREE NUMBERS
+Exp.No:1(e)	SEB- CHECK TWO INTEGERS ARE EQUAL.
 
 ### AIM
 To write a python program to check whether the two integer numbers are equal using conditional Expression(Ternary).
